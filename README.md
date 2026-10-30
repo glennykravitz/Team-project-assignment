@@ -1,4 +1,6 @@
 Jenga Youth Chama: team website
+Glenn Owino-227601
+Ismail Abdi 226809
 DBT 1305 Web Application Development, Week 7 team project.
 
 A seven-page website for a youth savings and lending group in Nairobi: Home, About, Savings, Loans, Events, Join and Contact. Every page shares the same header, navigation, notices and footer, and all styling comes from a single file, css/style.css.
